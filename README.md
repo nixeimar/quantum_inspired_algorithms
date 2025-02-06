@@ -1,4 +1,4 @@
-This repository explores quantum-inspired algorithms, leveraging quantum mechanics principles to enhance classical computation. While true quantum computing faces hardware limitations, these algorithms offer practical advantages on classical systems.
+This repository delves into quantum-inspired algorithms, utilizing principles of quantum mechanics to enhance classical computation. While true quantum computing is constrained by hardware limitations, these algorithms provide practical benefits on classical systems. Currently, it includes an implementation of the HHL algorithm for a 1D Bratu problem using pseudo-arc length continuation. Our objective is to explore various quantum algorithms within a quantum-inspired framework.
 
 <h2>Features:</h2>
 <ul>
